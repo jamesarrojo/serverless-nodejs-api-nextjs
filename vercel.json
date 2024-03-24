@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/api/leads",
+            "destination": "https://p4mclw29l8.execute-api.ap-southeast-1.amazonaws.com/leads"
+        }
+    ]
+}
